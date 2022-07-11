@@ -1,0 +1,17 @@
+.main {
+  background: linear-gradient(
+      90deg,
+      rgb(222, 27, 205) 0%,
+      rgba(255,255,255,1) 35%,
+      rgba(255,255,255,1) 65%,
+      rgb(105, 253, 0) 100%
+  );
+
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between; /* property aligns the flex containers items 
+  when the items do not use all available space. Items will have space between */
+}
