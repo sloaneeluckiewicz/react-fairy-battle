@@ -1,9 +1,6 @@
 {
-    "compilerOptions": {
-      "baseUrl": "src"
-    },
-    "include": ["src"]
-  }
-  
-  // allows me to import files in a cleaner way
-  
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
