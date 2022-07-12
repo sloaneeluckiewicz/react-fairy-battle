@@ -2,7 +2,7 @@ export const playerStats = {
   level: 44,
   maxHealth: 177,
   name: 'Muscaria',
-  img: '/assets/fairy.png',
+  img: '/assets/fairy2.png',
 
   magic: 40,
   attack: 45,
@@ -14,7 +14,7 @@ export const opponentStats = {
   level: 44,
   maxHealth: 188,
   name: 'Phellodies ',
-  img: '/assets/goblin.png',
+  img: '/assets/goblin2.png',
 
   magic: 32,
   attack: 30,
